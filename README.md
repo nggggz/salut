@@ -3,10 +3,10 @@ Apprentissage de Git. :smile:
 
 ## Prérequis
 **Utilisation d'une bibliothèque tiers avec :**
-  *Bootstrap
-  *Jquery
-  *DataTables
-  *FontAwesome
+  * Bootstrap
+  * Jquery
+  * DataTables
+  * FontAwesome
   
 **Utilisation de bibliothèques côté Back-end:**
   *Twig
