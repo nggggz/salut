@@ -1,7 +1,7 @@
 # Salut
 Apprentissage de Git. :smile:
 
-## Prérequis
+## Prérequis :poop:
 **Utilisation d'une bibliothèque tiers avec :**
   * Bootstrap
   * Jquery
