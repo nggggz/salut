@@ -9,8 +9,8 @@ Apprentissage de Git. :smile:
   * FontAwesome
   
 **Utilisation de bibliothèques côté Back-end:**
-  *Twig
-  *Smarty
+  * Twig
+  * Smarty
   
 ### Installation
 ```shell
